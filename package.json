@@ -1,0 +1,26 @@
+{
+  "name": "mocha-testing",
+  "version": "1.0.0",
+  "description": "testing with mocha and node js",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b0char0va/Mocha-and-NodeJS-testing.git"
+  },
+  "keywords": [
+    "mocha",
+    "nodejs"
+  ],
+  "author": "Mona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b0char0va/Mocha-and-NodeJS-testing/issues"
+  },
+  "homepage": "https://github.com/b0char0va/Mocha-and-NodeJS-testing#readme"
+}
